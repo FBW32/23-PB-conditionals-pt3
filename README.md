@@ -1,4 +1,4 @@
-# Programming Basics: Conditionals (Math and In-Built Object exercises)
+# Programming Basics: Conditionals (Exercises using maths and In-Built Objects)
 
 **Print your results to the console**
 
@@ -53,5 +53,3 @@ Depending on the time and the language set in the UI/browser, show a message in 
 >"Buonasera!"
 
 6. Determine whether a given year is a leap year in the Gregorian calendar. 
-
-7. FizzBuzz! For a range of 0-50, if a number is divisible by 3, print "Fizz". If a number is divisible by "5", print "Buzz". If a number is divisible by both 3 and 5, print "FizzBuzz". If none of the above apply, print the number.
