@@ -56,7 +56,7 @@ if (LisTeam2 > MaryTeam2) {
 let AleezaTeam3 = (199 + 10 + 3) / 3;
 console.log(Math.floor(AleezaTeam3)); // 70
 let MaryTeam3 = (979 + 14 + 15) / 3;
-console.log(MaryTeam3); // 336
+console.log(MaryTeam3); //   336
 
 if (AleezaTeam3 > MaryTeam3) {
   console.log(
